@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-858-feat-api-campaign-sponsorship-receipt",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-858-feat-api-campaign-sponsorship-receipt": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-858-feat-api-campaign-sponsorship-receipt",
+    "origin"
+  ]
+}
